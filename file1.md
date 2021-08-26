@@ -1,7 +1,7 @@
-#Start a new Web Project
+#Start a new Web Project 
 
 ##Introduction
 
 ##Purpose
 
-##How to start a project
+##How to start 
